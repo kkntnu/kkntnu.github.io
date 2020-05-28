@@ -1,3 +1,3 @@
 # kkntnu.github.io
 
-* [memo](./Wiki/memo.html)
+* [memo](./Wiki/)
